@@ -14,7 +14,7 @@
     "del": ""
   },
   "dependencies": {
-    "body-parser": "~1.12.0",
+    "body-parser": "~1.20.4",
     "busboy": "^0.2.9",
     "cookie": "^0.1.2",
     "cookie-parser": "~1.3.4",
